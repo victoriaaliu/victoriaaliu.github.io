@@ -1,0 +1,27 @@
+body {
+    background-color: #6EBBFF;
+    color: black;
+    font-family: Candara, sans-serif;
+}
+
+.hi {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.picofme {
+    padding-bottom: 30px;
+    max-width: 500px;
+    display: block;
+    margin: auto;
+}
+
+.links {
+    display: flex;
+    justify-content: center
+}
+
+.logo {
+    padding-left: 7px;
+    padding-right: 5px;
+}
