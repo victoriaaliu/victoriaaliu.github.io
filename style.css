@@ -1,0 +1,84 @@
+.navbar {
+    background-color: powderblue;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.navbar a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background-color: white;
+    color: black;
+}
+
+.navbar a.active {
+    background-color: midnightblue;
+    color: white;
+}
+
+#victorialiu {
+    font-size: 22px;
+    padding-right: 60px;
+}
+
+body {
+    color: black;
+    font-family: Nunito, sans-serif;
+}
+
+#topsection {
+    background-color: cornflowerblue;
+    width: 80%;
+    height: 50%;
+    display: block;
+    margin: auto;
+    margin-top: 110px;
+}
+
+.hi {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 32px;
+}
+
+.picofme {
+    padding-bottom: 30px;
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+.links {
+    display: flex;
+    justify-content: center
+}
+
+.logo {
+    padding-left: 7px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+}
+
+.title {
+/*    font-family: sans-serif;*/
+    font-size: 24px;
+    color: midnightblue;
+    margin-top: 90px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+p {
+    margin-left: 80px;
+    margin-right: 80px;
+}
