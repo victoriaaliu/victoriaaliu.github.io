@@ -33,7 +33,11 @@
 
 body {
     color: black;
-    font-family: Nunito, sans-serif;
+    font-family: Poppins, sans-serif;
+}
+
+h1, h2 {
+    font-family: Poppins, semibold;
 }
 
 #topsection {
